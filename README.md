@@ -1,4 +1,4 @@
-# Assignment 1 - Project Title
+# Environment-and-AI-toolchain
 
 A clean, production-grade repository structure for Assignment 1.
 
