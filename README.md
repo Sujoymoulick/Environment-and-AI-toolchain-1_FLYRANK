@@ -10,13 +10,19 @@ This project is a web application/service built for Assignment 1. It implements 
 
 ---
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
-- **Runtime Environment:** Node.js (LTS)
-- **Development Tooling:**
-  - Version Control: Git & GitHub Desktop
-  - IDE: Visual Studio Code (VS Code)
-  - Code Formatting & Linting: ESLint & Prettier (recommended configuration)
+### Core Runtime
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### IDE & Version Control
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-%236f42c1.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Code Quality & Formatting
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=pink)
 
 *(Add other specific libraries, database, or frameworks here as the project grows, e.g., Express.js, TypeScript, etc.)*
 
