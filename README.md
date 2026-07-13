@@ -24,6 +24,10 @@ This project is a web application/service built for Assignment 1. It implements 
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=pink)
 
+### AI Assistants & Developer Tooling
+![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-5B21B6?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub%20Copilot%20CLI-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 *(Add other specific libraries, database, or frameworks here as the project grows, e.g., Express.js, TypeScript, etc.)*
 
 ---
