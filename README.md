@@ -67,16 +67,13 @@ Ensure you have the following installed on your machine:
 
 ## 📸 Screenshots
 
-Use this section to showcase the application interface and functionality.
+Below are the screenshots confirming the successful installation and configuration of the development environment (Node.js LTS, Git, and VS Code):
 
-| Feature / Page | Screenshot Preview |
+| Installation Verification | Preview |
 |---|---|
-| **Dashboard / Main View** | *Add screenshot description and link image here* |
-| **Interactive View** | *Add screenshot description and link image here* |
+| **Tech Stack & Tooling Verification - Part 1** | ![Installation Part 1](./screenshots/installation-part1.png) |
+| **Tech Stack & Tooling Verification - Part 2** | ![Installation Part 2](./screenshots/installation-part2.png) |
 
-> [!TIP]
-> Place your screenshot images inside a `screenshots/` folder in the root directory, then reference them using:
-> `![Alt Text](./screenshots/filename.png)`
 
 ---
 
