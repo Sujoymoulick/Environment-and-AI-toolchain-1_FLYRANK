@@ -22,50 +22,7 @@ This project is a web application/service built for Assignment 1. It implements 
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up and run the project locally.
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-- **Node.js LTS** (Verify installation with `node -v`)
-- **npm** (Verify installation with `npm -v`)
-- **Git** (Verify installation with `git --version`)
-
-### Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone <your-repository-url>
-   cd assignment1
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Environment Variables**
-   If the project requires configurations or API keys, create a `.env` file in the root directory:
-   ```bash
-   cp .env.example .env
-   ```
-   *Edit the `.env` file with your local configurations.*
-
-4. **Run the Application**
-   - **Development Mode** (with hot-reloading if configured):
-     ```bash
-     npm run dev
-     ```
-   - **Production Mode**:
-     ```bash
-     npm start
-     ```
-
----
-
-## 📸 Screenshots
+##  Screenshots
 
 Below are the screenshots confirming the successful installation and configuration of the development environment (Node.js LTS, Git, and VS Code):
 
